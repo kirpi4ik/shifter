@@ -1,6 +1,7 @@
 Clone the repository
 -----------
 	git clone https://github.com/kirpi4ik/shifter.git
+	cd shifter
 
 Installation/Test
 -----------
