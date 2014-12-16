@@ -1,3 +1,8 @@
+Shifter Description
+-----------
+This is a simple application which rotates the array of integers to the right with the specified number of positions.
+This application can be executed from the interactive console
+
 Required
 -----------
 * JDK version >= 1.7
