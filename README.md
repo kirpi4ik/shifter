@@ -1,7 +1,7 @@
 Required
 -----------
-* JDK version > 1.7
-* Maven version > 3.x
+* JDK version >= 1.7
+* Maven version >= 3.x
 * Git
 
 Clone the repository
